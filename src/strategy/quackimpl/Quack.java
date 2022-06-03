@@ -1,4 +1,6 @@
-package strategy;
+package strategy.quackimpl;
+
+import strategy.QuackBehavior;
 
 public class Quack implements QuackBehavior {
 

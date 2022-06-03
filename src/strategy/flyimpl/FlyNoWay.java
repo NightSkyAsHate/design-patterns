@@ -1,4 +1,6 @@
-package strategy;
+package strategy.flyimpl;
+
+import strategy.FlyBehavior;
 
 public class FlyNoWay implements FlyBehavior {
 

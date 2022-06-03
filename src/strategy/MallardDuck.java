@@ -1,5 +1,8 @@
 package strategy;
 
+import strategy.flyimpl.FlyWithWings;
+import strategy.quackimpl.Quack;
+
 public class MallardDuck extends Duck {
 
   public MallardDuck() {

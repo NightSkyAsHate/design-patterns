@@ -1,3 +1,4 @@
 # Head First Паттерны проектирования
 
-* Стратегия
+* [Стратегия](src/strategy/README.md)
+* [Наблюдатель](src/observer/README.md)
